@@ -204,6 +204,7 @@ def file_diff_format(filename1, filename2):
         dude = 'Line ' + str(dummy_line) + ':\n' + dummy_format
         return dude
 
-#print(file_diff_format('file8.txt', 'file9.txt'))
+#print(file_diff_format('file8.txt', 'file9.txt')) - cant fix this error
+print(file_diff_format('file1.txt', file2.txt)
 
     

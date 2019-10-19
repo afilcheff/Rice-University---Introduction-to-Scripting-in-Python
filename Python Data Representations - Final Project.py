@@ -2,6 +2,8 @@
 Project for Week 4 of "Python Data Representations".
 Find differences in file contents.
 
+Test files in /project 2, test files
+
 Be sure to read the project description page for further information
 about the expected behavior of the program.
 """
